@@ -30,6 +30,8 @@ templates/
 3. Move real metrics from project repos into the result sections.
 4. Keep claims honest: no benchmark claim without reproducible artifact links.
 
+Use [docs/EVIDENCE_REQUIREMENTS.md](docs/EVIDENCE_REQUIREMENTS.md) before writing a paper-style summary.
+
 ## Current Status
 
 Research framing is ready. Real papers, posters, or submissions require actual experiment runs, figures, and reviewer-quality citations.
