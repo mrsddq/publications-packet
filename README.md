@@ -1,4 +1,4 @@
-# Publications Packet
+# Research Portfolio Packet
 
 Academic-style framing packet for AI, computer vision, MLOps, and DevOps portfolio work.
 
